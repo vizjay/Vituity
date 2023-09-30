@@ -1,0 +1,3 @@
+message_type,patient_first_name,patient_last_name,patient_middle_name,patient_address_1,patient_address_2,patient_city,patient_state,patient_zip,account_number,bill_amount,date_of_service,patient_name
+ORU-R01,Finmerge,Uptest,Clark,12465 Address line,,,IN,     ,CA00001,661,2023-09-29,Uptest Finmerge Clark
+ORU-R01,DUCK,DONALD,L,1111 MATTERHORN RD,,ORLANDO,FL,11111,SA0035802800,1234,2023-09-29,DONALD DUCK L
